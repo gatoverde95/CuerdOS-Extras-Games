@@ -26,7 +26,7 @@ Son juegos EXTRA de instalacion opcional, estan siendo emulados en DOSBOX solo q
 | Cool Spot | ![Cool Spot](/cuerd-scr/spot.png) |
 | VRally 3 (mGBA) | ![vrally3](/cuerd-scr/vrally.png) |
 | Lady Sia (mGBA) | ![Lady](/cuerd-scr/lady.png) |
-| Sonic The Hedgehog (mGBA) | ![Sonic](/cuerd-scr/trib-tnt.png) |
+| GTA Advance (mGBA) | ![Sonic](/cuerd-scr/gtaadv.png) |
 | Mortal Kombat Deadly Alliance (mGBA) | ![MKDA](/cuerd-scr/mkda.png) |
 
 # Descargas
